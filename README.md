@@ -1,2 +1,1 @@
-# Image-Processing
-Image processing lectures for computer science students.
+# Image Processing and Computer Vision Training
